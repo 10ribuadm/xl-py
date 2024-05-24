@@ -2,7 +2,7 @@
 import datetime
 
 class Config(object):
-    XL_HOST_DOMAIN              =  'https://my.xl.co.id'
+    XL_HOST_DOMAIN              =  'https://xclite.netlify.app'
     XL_OTPRQ_QUERY_PATH         =  '/pre/LoginSendOTPRq'
     XL_LOGIN_QUERY_PATH         =  '/pre/LoginValidateOTPRq'
     XL_PURCHASEPKG_QUERY_PATH   =  '/pre/opPurchase'
